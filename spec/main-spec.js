@@ -5,7 +5,7 @@ describe('pos', function () {
 
     beforeEach(function () {
         inputs = [
-            'ITEM000001',
+            'ITEM000001', 
             'ITEM000001',
             'ITEM000001',
             'ITEM000001',
